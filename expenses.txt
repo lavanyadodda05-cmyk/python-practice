@@ -1,0 +1,7 @@
+milk - 35
+tiffin - 20
+tea - 10
+Food - 200
+Travel - 100
+snakes- 200
+shopping - 100
